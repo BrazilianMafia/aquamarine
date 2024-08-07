@@ -7,7 +7,7 @@
 
  <p>Youtube Tutorial :-https://youtu.be/2A60MuS1iFY</p>
  
-<h3 style="text-align: left;"><span style="font-family: arial;">Instalaçao & Uso</h3>
+<h3 style="text-align: left;"><span style="font-family: arial;">Instalação & Uso</h3>
 
 ```bash 
 cd AquaMarine && bash aquamarine.sh 
